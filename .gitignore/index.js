@@ -8,4 +8,4 @@ bot.on("ready", function() {
     
 });
 
-bot.login("NDQ3NDA0NTE0MjMzMDI0NTEy.DeHKxA.JR-MWsSCQXci9sYBaDijLLu8_-A");
+bot.login(process.env."NDQ3NDA0NTE0MjMzMDI0NTEy.DeHKxA.JR-MWsSCQXci9sYBaDijLLu8_-A");
